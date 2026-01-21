@@ -1,0 +1,24 @@
+{
+  "name": "20260121_geolocation_backend",
+  "version": "1.0.0",
+  "description": "Geolocation Handler Site",
+  "homepage": "https://github.com/SagiBeno/geolocation-backend#readme",
+  "bugs": {
+    "url": "https://github.com/SagiBeno/geolocation-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://token@github.com/SagiBeno/geolocation-backend.git"
+  },
+  "license": "ISC",
+  "author": "SagiBeno",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1"
+  }
+}
